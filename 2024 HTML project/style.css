@@ -1,0 +1,62 @@
+body {
+	background-color: #FAF9F6;
+}
+.topnav {
+   background-color: #333333;
+   overflow: hidden;
+}
+.topnav a {
+   float: left;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+.topnav a:hover {
+   background-color: #DDDDDD;
+   color: black;
+}
+.topnav a.active {
+   background-color: #04AA6D;
+   color: white;
+}
+.button {
+   background-color: f2f2f2;
+   align-self: center;
+   text-align: center;
+   text-size: 50px;
+	font-family:"Stint ultra expanded";
+   width:120px ;
+   height: 75px;
+
+}
+img {
+   border-color: #04aa6d ; 
+   border-width: 6px ;
+   border-style: solid; 
+}
+
+img{
+float:center;
+padding:15px; 
+
+}
+
+table{
+   border-color: black;
+   border-style:;
+}
+
+.Ai information Vids{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.p{
+   color: darkred;
+   text-align: center;
+   font-family: "Times New Roman", serif;
+   font-size: 60px;
+}
